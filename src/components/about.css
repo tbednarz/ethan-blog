@@ -12,10 +12,10 @@
     align-items: center;
     margin-top: 5%;
     width: 100%;
-
     background-color: #fff;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1.3em;
 }
 
 #about-me-p {
